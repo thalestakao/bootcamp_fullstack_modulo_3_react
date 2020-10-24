@@ -16,6 +16,6 @@
 
 ## RUN ONLINE
 
-1 - Faça fork do projeto no github
-2 - Acesse o stackblitz e faça uma conta lá, importante fazer login com o github nele. https://stackblitz.com/
-3 - Acesse https://stackblitz.com/github/SEU_USUARIO_GITHUB/bootcamp_fullstack_modulo_3_react?file=src%2Findex.js
+1. Faça fork do projeto no github
+2. Acesse o stackblitz e faça uma conta lá, importante fazer login com o github nele. https://stackblitz.com/
+3. Acesse https://stackblitz.com/github/SEU_USUARIO_GITHUB/bootcamp_fullstack_modulo_3_react?file=src%2Findex.js
